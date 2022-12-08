@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49986261071",
+    "project_id": "my-personal-android-project",
+    "storage_bucket": "my-personal-android-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49986261071:android:4c468e0e8dce339613da3a",
+        "android_client_info": {
+          "package_name": "com.pfranccino.pokeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49986261071-br5cvf5amvbogq0a98obvd22iqm6699q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvKr6upT-pFl2S4_JMPw9AkLiN4J9ViiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49986261071-br5cvf5amvbogq0a98obvd22iqm6699q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
